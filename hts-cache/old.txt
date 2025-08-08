@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:03:31	94/94	---M-Z	200	added ('OK')	text/plain	etag:%22601177126041d888a76b7b644426b48b%22	https://www.lexxmate.com/robots.txt		(from )
+18:03:32	416724/416724	---M-Z	200	added ('OK')	text/html	etag:%22039e3c60dc3838bc50c894153b92e3b1%22	https://www.lexxmate.com/	/Users/kralikmate6/Desktop/lexxmate/www.lexxmate.com/index.html	(from )
+18:03:33	206190/206190	---M-Z	200	added ('OK')	text/html	etag:%22e0850964fcdc1912ad5b9e7560bd997d%22	https://www.lexxmate.com/privacy-policy	/Users/kralikmate6/Desktop/lexxmate/www.lexxmate.com/privacy-policy.html	(from https://www.lexxmate.com/)
+18:03:34	231829/231829	---M-Z	200	added ('OK')	text/html	etag:%2249e6d4d5c20e183406047b31829a7906%22	https://www.lexxmate.com/terms-and-conditions	/Users/kralikmate6/Desktop/lexxmate/www.lexxmate.com/terms-and-conditions.html	(from https://www.lexxmate.com/)
